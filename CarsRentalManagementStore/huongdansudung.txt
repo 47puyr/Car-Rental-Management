@@ -1,0 +1,1 @@
+bật WampServer hoặc Xampp để truy cập csdl, sau đó bấm phpadmin rồi import cơ sở dữ liệu sau đó run là chạy được
